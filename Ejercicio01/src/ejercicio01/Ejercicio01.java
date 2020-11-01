@@ -10,26 +10,20 @@ package ejercicio01;
  * @author reroes
  */
 public class Ejercicio01 {
-
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // Resolver
-        
         // Crear una variable entera llamada edad
         // Asignar a la variable edad el valor de 20
-        
-        
+        int edad=20;
         // Crear una variable double llamada promedio
         // Asignar a la variable promedio el valor de 10.2
-        
-        
+        double promedio=10.2;
         // Crear una variable String llamada pais
         // Asignar a la variable pais el valor de Ecuador
-        
-        
-        
+        String pais="Ecuador";  
         System.out.println(edad);
         System.out.println(promedio);
         System.out.println(pais);
@@ -39,8 +33,6 @@ public class Ejercicio01 {
         
         double resultado = (1+2+4+3)/5+Math.sqrt(81);
         System.out.println(resultado);
-        
-        
     }
     
 }
